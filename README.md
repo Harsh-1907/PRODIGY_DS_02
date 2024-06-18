@@ -1,2 +1,2 @@
 # PRODIGY_DS_02
-Task 1 by ProdigyInfotech : Performing EDA
+Task 2 by ProdigyInfotech : Performing EDA(Exploratory data analysis).
